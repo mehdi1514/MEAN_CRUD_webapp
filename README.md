@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # ServerSideNode
 
-The code for node is included in the server-side-node directory. To run the node server run the command `npx nodemon` in the server-side-node directory.
+The code for node is included in the server-side-node directory. To run the node server run the command `npx nodemon` in the server-side-node directory. The node server will run at http://localhost:3000/
 
 ## Development server
 
