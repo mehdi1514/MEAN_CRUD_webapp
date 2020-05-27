@@ -10,6 +10,12 @@ The code for node is included in the server-side-node directory. To run the node
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Screenshots
+
+![Screen Shot 2020-05-28 at 1 23 29 AM](https://user-images.githubusercontent.com/26627849/83065946-f5021080-a081-11ea-8996-7d3f7e05bda8.png)
+![Screen Shot 2020-05-28 at 1 23 39 AM](https://user-images.githubusercontent.com/26627849/83065953-f7646a80-a081-11ea-9a89-6bc8bd1e912e.png)
+
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
