@@ -9,7 +9,7 @@ var app = express();
 const route = require('./routes/route');
 
 //connect to mongo db
-mongoose.connect('mongodb+srv://admin:Mehdi786@cluster0-jfl2g.mongodb.net/test?retryWrites=true&w=majority', {
+mongoose.connect('YOUR_MONGODB_ATLAS_LINK_HERE', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 });
